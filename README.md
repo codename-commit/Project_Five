@@ -6,7 +6,7 @@ A temporary portfolio for madileng
 
 ## Preview
 
-[![elite Preview](https://ibb.co/RbTDMNk)](https://i.ibb.co/ZxBHxtt/preview2.png)
+[![Madileng Preview](https://ibb.co/RbTDMNk)](https://ibb.co/RbTDMNk)
 
 **[View Live Preview](https://codename-commit.github.io/Project_Five/)**
 
