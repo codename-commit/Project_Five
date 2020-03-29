@@ -7648,6 +7648,7 @@ h1, h2, h3, h4, h5,
   line-height: 1;
   /* background-color: #dc3545; */
   height: 70vh;
+  margin-top: 5vh;
   display: block; }
 
 @media (max-width: 767.98px) {
