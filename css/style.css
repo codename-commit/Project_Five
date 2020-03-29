@@ -7652,8 +7652,10 @@ h1, h2, h3, h4, h5,
 
 @media (max-width: 767.98px) {
   .ftco-intro {
-    margin-top: 60px; 
-    background-color: #dc3545;
+    margin-top: 40vh; 
+    margin-left: 7vh;
+    justify-content: center;
+    /* background-color: #dc3545; */
   } }
 
 .hero-wrap {
